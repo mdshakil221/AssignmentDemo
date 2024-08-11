@@ -1,0 +1,15 @@
+
+.Mycard {
+  transition: box-shadow .3s;
+  width: 300px;
+  height: 500px;
+  margin: 50px;
+  border: 1px solid #dc1717;
+  float: left;
+  
+}
+.Mycard:hover {
+  box-shadow: 1px 1px 20px rgba(10, 4, 4, 0.2); 
+}
+
+
